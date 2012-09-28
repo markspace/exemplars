@@ -53,14 +53,14 @@ translate(v=[hpx-novx,0,-1])
 
     // HP Holes
     translate(v=[hp1x,hp1y,-1])
-        polyhole(h=depth+2, d=3.6);
+        polyhole(h=depth+2, d=3);
     translate(v=[hp2x,hp2y,-1])
-        polyhole(h=depth+2, d=3.6);
+        polyhole(h=depth+2, d=3);
     translate(v=[hp3x,hp3y,-1])
-        polyhole(h=depth+2, d=3.6);
+        polyhole(h=depth+2, d=3);
 // Too close to nov4
 //    translate(v=[hp4x,hp4y,-1])
-//        polyhole(h=depth+2, d=3.6);
+//        polyhole(h=depth+2, d=3);
 
     // Nova Holes
     translate(v=[nov1x,nov1y,-1])
